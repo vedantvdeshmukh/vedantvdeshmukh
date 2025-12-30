@@ -21,7 +21,7 @@
 An embedded systems project focused on real-time obstacle detection using sensors and microcontroller-based logic.  
 Tech used: Embedded C++, Arduino  
 
-🔗 Repository: https://github.com/vedantvdeshmukh/Smart-Assistive-Object-Detector
+🔗 Repository: [https://github.com/vedantvdeshmukh/Smart-Assistive-Object-Detector](https://github.com/vedantvdeshmukh/Smart-_Assistive-_Object-_Detector)
 
 ---
 
