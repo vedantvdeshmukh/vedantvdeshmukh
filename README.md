@@ -1,35 +1,58 @@
-## Hi, I'm Vedant 👋
+## 👋 Hi, I'm Vedant
 
-🎓 CSE (AI & ML) student at Pimpri Chinchwad University  
-🚀 ECWoC 2026 Contributor  
-🔧 Interested in Embedded Systems, C++, and Open Source  
+🎓 **CSE (AI & ML) Undergraduate** at **Pimpri Chinchwad University, Pune**  
+🚀 **ECWoC 2026 Contributor**  
+🔧 Interested in **Embedded Systems, C++, Python, and Open Source Development**
+
+I enjoy building **real-world systems using hardware and low-level programming**, and I’m actively improving my skills through hands-on projects and open-source collaboration.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
+
+- **Embedded C++**
+- **C++**
+- **Python**
+- **Git & GitHub**
+- **Arduino IDE**
+- **VS Code**
+
+---
+
+## 📌 Featured Project
+
+### 🔹 Smart Assistive Object Detector
+
+An **embedded systems project** focused on **real-time obstacle detection** using sensors and microcontroller-based logic.  
+The system assists users by detecting nearby objects and triggering responses using efficient, rule-based logic.
+
+**Tech Used:**
 - Embedded C++
-- C++
-- Python
-- Git & GitHub
-- Arduino IDE
-- VS Code
+- Arduino
+- Sensors
+
+🔗 **Repository:**  
+https://github.com/vedantvdeshmukh/Smart-Assistive-Object-Detector
 
 ---
 
-### 📌 Featured Project
-**Smart Assistive Object Detector**  
-An embedded systems project focused on real-time obstacle detection using sensors and microcontroller-based logic.  
-Tech used: Embedded C++, Arduino  
+## 🌱 Currently Learning
 
-🔗 Repository: https://github.com/vedantvdeshmukh/Smart-Assistive-Object-Detector
+- Open-source collaboration  
+- **Clean and maintainable C++ coding practices**  
+- **Clean and maintainable Python coding practices**  
+- GitHub workflows:
+  - Pull Requests  
+  - Issues  
+  - Code Reviews  
 
 ---
 
-### 🌱 Currently Learning
+## 📫 Let’s Connect
+
+I’m always open to:
+- Embedded systems projects
 - Open-source collaboration
-- Clean C++ coding practices
-- GitHub workflows (PRs, issues, reviews)
+- Learning and growth opportunities
 
----
-
-📫 Feel free to connect and collaborate!
+Feel free to connect and collaborate 🤝
