@@ -1,58 +1,129 @@
-## 👋 Hi, I'm Vedant
+# 👋 Hi, I'm Vedant Deshmukh
 
-🎓 **CSE (AI & ML) Undergraduate** at **Pimpri Chinchwad University, Pune**  
-🚀 **ECWoC 2026 Contributor**  
-🔧 Interested in **Embedded Systems, C++, Python, and Open Source Development**
-
-I enjoy building **real-world systems using hardware and low-level programming**, and I’m actively improving my skills through hands-on projects and open-source collaboration.
+🎓 CSE Undergraduate (Artificial Intelligence & Machine Learning)
+🏫 Pimpri Chinchwad University, Pune, India
+🚀 Open-source learner | AI/ML Enthusiast | Systems-level Thinker
 
 ---
 
-## 🛠️ Tech Stack
+# 🧠 Current Focus
 
-- **Embedded C++**
-- **C++**
-- **Python**
-- **Git & GitHub**
-- **Arduino IDE**
-- **VS Code**
+I am currently focused on building **strong foundations in Python, Data Analysis, and Machine Learning**.
+
+My goal is to understand AI from the ground up — from **data handling and algorithms to real-world intelligent systems**.
+
+I am actively working on:
+
+* Python programming (core + problem solving)
+* Data Analysis using NumPy and Pandas
+* Machine Learning fundamentals (scikit-learn)
+* Building and documenting projects on GitHub
+* Developing consistent engineering discipline
 
 ---
 
-## 📌 Featured Project
+# 🎯 Long-Term Goal
 
-### 🔹 Smart Assistive Object Detector
+My long-term goal is to become an **AI/ML Engineer** capable of building:
 
-An **embedded systems project** focused on **real-time obstacle detection** using sensors and microcontroller-based logic.  
-The system assists users by detecting nearby objects and triggering responses using efficient, rule-based logic.
+* Intelligent real-world systems
+* Efficient and scalable ML solutions
+* AI-powered embedded and software systems
+
+I am especially interested in the intersection of:
+
+* Artificial Intelligence
+* Software Engineering
+* Embedded and intelligent systems
+
+---
+
+# 🛠️ Technical Skills
+
+### Programming
+
+* Python (Primary)
+* C++
+* Embedded C++
+
+### Tools & Technologies
+
+* Git & GitHub
+* Jupyter Notebook
+* VS Code
+* Arduino IDE
+
+### Currently Learning
+
+* NumPy
+* Pandas
+* Data Visualization
+* Machine Learning (beginner → advanced roadmap)
+
+---
+
+# 📂 Featured Project
+
+## 🔹 Smart Assistive Object Detector
+
+An embedded system designed to assist users by detecting nearby obstacles using sensors and microcontroller logic.
+
+**Key Features:**
+
+* Real-time object detection
+* Efficient rule-based decision logic
+* Hardware-software integration
 
 **Tech Used:**
-- Embedded C++
-- Arduino
-- Sensors
 
-🔗 **Repository:**  
+* Embedded C++
+* Arduino
+* Sensors
+
+**Repository:**
 https://github.com/vedantvdeshmukh/Smart-Assistive-Object-Detector
 
 ---
 
-## 🌱 Currently Learning
+# 📈 Current Development Journey
 
-- Open-source collaboration  
-- **Clean and maintainable C++ coding practices**  
-- **Clean and maintainable Python coding practices**  
-- GitHub workflows:
-  - Pull Requests  
-  - Issues  
-  - Code Reviews  
+I am actively building my **Machine Learning portfolio**, including:
+
+* Python fundamentals
+* Data analysis notebooks
+* Machine learning practice projects
+* Real-world problem-based implementations
+
+All progress is documented here on GitHub.
 
 ---
 
-## 📫 Let’s Connect
+# 🧩 Engineering Mindset
 
-I’m always open to:
-- Embedded systems projects
-- Open-source collaboration
-- Learning and growth opportunities
+I believe in:
 
-Feel free to connect and collaborate 🤝
+* Strong fundamentals over shortcuts
+* Consistency over intensity
+* Building real skills through practice
+* Long-term mastery
+
+---
+
+# 🤝 Open to Collaboration
+
+I am open to collaborating on:
+
+* Machine Learning beginner projects
+* Python-based tools
+* Open-source learning projects
+
+---
+
+# 📫 Connect With Me
+
+GitHub:
+https://github.com/vedantvdeshmukh
+
+---
+
+⭐ *This GitHub documents my journey from fundamentals to advanced AI/ML engineering.*
