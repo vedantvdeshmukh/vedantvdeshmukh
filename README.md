@@ -123,6 +123,8 @@ I am open to collaborating on:
 
 GitHub:
 https://github.com/vedantvdeshmukh
+Linkedin: 
+https://www.linkedin.com/in/vedant-deshmukh-b7042637a/?skipRedirect=true
 
 ---
 
