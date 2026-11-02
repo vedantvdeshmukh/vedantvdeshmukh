@@ -1,131 +1,27 @@
-# 👋 Hi, I'm Vedant Deshmukh
+# 💫 About Me:
+# 👋 Hi, I'm Vedant Deshmukh<br><br>🎓 **CSE Undergraduate — Artificial Intelligence & Machine Learning**  <br>🏫 Pimpri Chinchwad University, Pune, India  <br>🤖 AI/ML | Robotics | CAD Design | Intelligent Systems<br><br>---<br><br>## 🧠 About Me<br><br>I am a Computer Science undergraduate exploring how **Artificial Intelligence, robotics, and engineering design** come together to build intelligent real-world systems.<br><br>My journey spans software and hardware: from Python and Machine Learning to robotics, ROS 2, embedded systems, and mechanical CAD design.<br><br>I enjoy learning by building projects, understanding the engineering behind them, and documenting my progress.<br><br>## 🚀 Current Focus & Robotics Journey<br><br>- **AI & Machine Learning:** Python, data analysis, model building, and evaluation.<br>- **Data Analysis:** NumPy, Pandas, and data visualization.<br>- **Robotics:** Learning ROS 2, URDF, robot modelling, and simulation.<br>- **Mechanical Design:** SolidWorks part modelling, assemblies, mechanisms, and design calculations.<br>- **Embedded Systems:** C++, microcontrollers, sensors, and hardware-software integration.<br>- **Engineering Practice:** Git, GitHub, and technical documentation.<br><br>I am developing my robotics understanding step by step, connecting mechanical mechanisms, software, electronics, and intelligent behaviour.<br><br>## 🎯 Long-Term Direction<br><br>My goal is to become an **AI/ML Engineer with strong robotics knowledge**, capable of contributing to intelligent and autonomous systems.<br><br>I am particularly interested in:<br><br>- Artificial Intelligence and Machine Learning<br>- Robotics and autonomous systems<br>- Embedded systems and control<br>- Mechanical design and software engineering<br><br>## 🛠️ Technical Skills & Tools<br><br>**Programming**<br>- Python<br>- C++<br>- Embedded C++<br><br>**AI/ML & Data**<br>- NumPy<br>- Pandas<br>- scikit-learn<br>- Jupyter Notebook<br><br>**Robotics & Engineering**<br>- ROS 2 (Learning)<br>- SolidWorks<br>- Arduino and Sensors<br>- URDF and Robot Simulation (Learning)<br><br>**Developer Tools**<br>- Git & GitHub<br>- Visual Studio Code<br>- Arduino IDE<br><br>## 📂 Featured Projects<br><br>### 🔹 Air Guitar — ESP32 Wireless Wearable<br><br>🏆 **Runner-Up — Techneon 2K26 | Pimpri Chinchwad University**<br><br>A wearable, gesture-controlled musical instrument built using ESP32, MPU6050, and Python. The project allows users to select guitar chords using glove-mounted buttons and play them through hand-swing gestures without physical guitar strings.<br><br>**Key Highlights:**<br>- Integrated ESP32 with MPU6050 accelerometer and gyroscope.<br>- Implemented gesture-based strumming detection.<br>- Developed Bluetooth wireless communication between ESP32 and PC.<br>- Built a Python application for real-time chord playback.<br>- Implemented 8 different guitar chords with button combinations.<br>- Developed a wearable glove-mounted prototype.<br><br>**Technologies:** Embedded C++, ESP32, MPU6050, Python, Bluetooth, Arduino IDE, Pygame.<br><br>**Achievement:** Runner-Up at Techneon 2K26.<br><br>**Repository:** [Air Guitar — ESP32 Wireless Wearable](https://github.com/vedantvdeshmukh/Air-Guitar-ESP32)<br><br>### 🔹 Industrial 2-Finger Parallel Gripper<br><br>A rack-and-pinion parallel-jaw gripper designed in **SolidWorks** as part of an Industrial Training Program on Robotics and AI.<br><br>**Key Highlights:**<br>- Designed a two-finger mechanism using a central pinion and opposing racks.<br>- Developed 3D components and assembly in SolidWorks.<br>- Worked on initial load and torque calculations for a 5–10 kg target payload.<br>- Documented design limitations and future improvements.<br><br>**Tools:** SolidWorks Design Premium 2026<br><br>**Project Status:** Version 1 CAD, assembly, and hand calculations completed. FEA and further design improvements are planned.<br><br>**Repository:** [2-Finger Parallel Gripper](https://github.com/vedantvdeshmukh/2_Finger_Parallel_Gripper)<br><br>### 🔹 Smart Assistive Object Detector<br><br>An embedded project designed to assist users by detecting nearby obstacles using sensors and microcontroller-based logic.<br><br>**Key Highlights:**<br>- Real-time obstacle detection<br>- Sensor-driven decision logic<br>- Hardware-software integration<br><br>**Technologies:** Embedded C++, Arduino, Sensors<br><br>**Repository:** [Smart Assistive Object Detector](https://github.com/vedantvdeshmukh/Smart-Assistive-Object-Detector)<br><br>### 🔹 Machine Learning Practice<br><br>Building Machine Learning foundations through hands-on notebooks and beginner projects, including:<br>- Data exploration<br>- Classification workflows<br>- Model evaluation<br>- Practical ML implementations<br><br>## 🧩 Engineering Mindset<br><br>- Understand fundamentals before relying on abstractions.<br>- Learn by designing, building, testing, and iterating.<br>- Connect theory with practical engineering.<br>- Document progress, mistakes, and improvements.<br>- Prefer consistent progress over shortcuts.<br><br>## 🤝 Open to Collaboration<br><br>Interested in collaborating on projects involving:<br><br>- Python and Machine Learning<br>- Robotics and simulation<br>- Embedded systems<br>- CAD and engineering design<br>- Open-source software<br><br>## 📫 Connect With Me<br><br>- **GitHub:** [@vedantvdeshmukh](https://github.com/vedantvdeshmukh)<br>- **LinkedIn:** [Vedant Deshmukh](https://www.linkedin.com/in/vedant-deshmukh-b7042637a/)<br><br>---<br><br>⭐ *Learning, designing, and building at the intersection of AI/ML, robotics, and engineering.*
 
-🎓 CSE Undergraduate (Artificial Intelligence & Machine Learning)
-🏫 Pimpri Chinchwad University, Pune, India
-🚀 Open-source learner | AI/ML Enthusiast | Systems-level Thinker
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedantvdeshmukh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vedant-deshmukh-b7042637a/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/vedantdeshmukh105) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vedantvdeshmukh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedantdeshmukh105@gmail.com) 
 
-# 🧠 Current Focus
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vedantvdeshmukh&theme=darcula&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=vedantvdeshmukh&theme=darcula&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vedantvdeshmukh&theme=darcula&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-I am currently focused on building **strong foundations in Python, Data Analysis, and Machine Learning**.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vedantvdeshmukh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-My goal is to understand AI from the ground up — from **data handling and algorithms to real-world intelligent systems**.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-I am actively working on:
-
-* Python programming (core + problem solving)
-* Data Analysis using NumPy and Pandas
-* Machine Learning fundamentals (scikit-learn)
-* Building and documenting projects on GitHub
-* Developing consistent engineering discipline
-
----
-
-# 🎯 Long-Term Goal
-
-My long-term goal is to become an **AI/ML Engineer** capable of building:
-
-* Intelligent real-world systems
-* Efficient and scalable ML solutions
-* AI-powered embedded and software systems
-
-I am especially interested in the intersection of:
-
-* Artificial Intelligence
-* Software Engineering
-* Embedded and intelligent systems
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vedantvdeshmukh&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=vedantvdeshmukh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 🛠️ Technical Skills
-
-### Programming
-
-* Python (Primary)
-* C++
-* Embedded C++
-
-### Tools & Technologies
-
-* Git & GitHub
-* Jupyter Notebook
-* VS Code
-* Arduino IDE
-
-### Currently Learning
-
-* NumPy
-* Pandas
-* Data Visualization
-* Machine Learning (beginner → advanced roadmap)
-
----
-
-# 📂 Featured Project
-
-## 🔹 Smart Assistive Object Detector
-
-An embedded system designed to assist users by detecting nearby obstacles using sensors and microcontroller logic.
-
-**Key Features:**
-
-* Real-time object detection
-* Efficient rule-based decision logic
-* Hardware-software integration
-
-**Tech Used:**
-
-* Embedded C++
-* Arduino
-* Sensors
-
-**Repository:**
-https://github.com/vedantvdeshmukh/Smart-Assistive-Object-Detector
-
----
-
-# 📈 Current Development Journey
-
-I am actively building my **Machine Learning portfolio**, including:
-
-* Python fundamentals
-* Data analysis notebooks
-* Machine learning practice projects
-* Real-world problem-based implementations
-
-All progress is documented here on GitHub.
-
----
-
-# 🧩 Engineering Mindset
-
-I believe in:
-
-* Strong fundamentals over shortcuts
-* Consistency over intensity
-* Building real skills through practice
-* Long-term mastery
-
----
-
-# 🤝 Open to Collaboration
-
-I am open to collaborating on:
-
-* Machine Learning beginner projects
-* Python-based tools
-* Open-source learning projects
-
----
-
-# 📫 Connect With Me
-
-GitHub:
-https://github.com/vedantvdeshmukh
-Linkedin: 
-https://www.linkedin.com/in/vedant-deshmukh-b7042637a/?skipRedirect=true
-
----
-
-⭐ *This GitHub documents my journey from fundamentals to advanced AI/ML engineering.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
